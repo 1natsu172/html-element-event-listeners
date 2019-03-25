@@ -1,3 +1,9 @@
+# _Archived_
+
+This repository has been archived. Moved to this new project.
+
+**[https://github.com/1natsu172/register-event-listeners](https://github.com/1natsu172/register-event-listeners)**
+
 # html-element-event-listeners
 
 **Utility function to register multiple events**
